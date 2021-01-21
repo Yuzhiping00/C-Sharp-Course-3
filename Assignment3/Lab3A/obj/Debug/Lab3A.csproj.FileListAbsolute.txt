@@ -1,0 +1,7 @@
+C:\Users\jerry\Desktop\Programming in.Net_COMP _10204\Assignments\Assignment3\Lab3A\bin\Debug\Assignment 3.exe.config
+C:\Users\jerry\Desktop\Programming in.Net_COMP _10204\Assignments\Assignment3\Lab3A\bin\Debug\Assignment 3.exe
+C:\Users\jerry\Desktop\Programming in.Net_COMP _10204\Assignments\Assignment3\Lab3A\bin\Debug\Assignment 3.pdb
+C:\Users\jerry\Desktop\Programming in.Net_COMP _10204\Assignments\Assignment3\Lab3A\obj\Debug\Lab3A.csprojAssemblyReference.cache
+C:\Users\jerry\Desktop\Programming in.Net_COMP _10204\Assignments\Assignment3\Lab3A\obj\Debug\Lab3A.csproj.CoreCompileInputs.cache
+C:\Users\jerry\Desktop\Programming in.Net_COMP _10204\Assignments\Assignment3\Lab3A\obj\Debug\Assignment 3.exe
+C:\Users\jerry\Desktop\Programming in.Net_COMP _10204\Assignments\Assignment3\Lab3A\obj\Debug\Assignment 3.pdb

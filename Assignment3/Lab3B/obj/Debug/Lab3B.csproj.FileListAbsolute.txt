@@ -1,0 +1,10 @@
+C:\Users\jerry\Desktop\Programming in.Net_COMP _10204\Assignments\Assignment3\Lab3B\bin\Debug\Lab3B.exe.config
+C:\Users\jerry\Desktop\Programming in.Net_COMP _10204\Assignments\Assignment3\Lab3B\bin\Debug\Lab3B.exe
+C:\Users\jerry\Desktop\Programming in.Net_COMP _10204\Assignments\Assignment3\Lab3B\bin\Debug\Lab3B.pdb
+C:\Users\jerry\Desktop\Programming in.Net_COMP _10204\Assignments\Assignment3\Lab3B\obj\Debug\Lab3B.csprojAssemblyReference.cache
+C:\Users\jerry\Desktop\Programming in.Net_COMP _10204\Assignments\Assignment3\Lab3B\obj\Debug\Lab3B.Form1.resources
+C:\Users\jerry\Desktop\Programming in.Net_COMP _10204\Assignments\Assignment3\Lab3B\obj\Debug\Lab3B.Properties.Resources.resources
+C:\Users\jerry\Desktop\Programming in.Net_COMP _10204\Assignments\Assignment3\Lab3B\obj\Debug\Lab3B.csproj.GenerateResource.cache
+C:\Users\jerry\Desktop\Programming in.Net_COMP _10204\Assignments\Assignment3\Lab3B\obj\Debug\Lab3B.csproj.CoreCompileInputs.cache
+C:\Users\jerry\Desktop\Programming in.Net_COMP _10204\Assignments\Assignment3\Lab3B\obj\Debug\Lab3B.exe
+C:\Users\jerry\Desktop\Programming in.Net_COMP _10204\Assignments\Assignment3\Lab3B\obj\Debug\Lab3B.pdb
